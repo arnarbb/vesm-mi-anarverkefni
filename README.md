@@ -6,3 +6,5 @@
 ## 3D model
 
 reindi að hafa það jafn þétt og hægt væri en nóg pláss svo hlutirnir komist öruglega. ég gerði vitmið af öllum hlutunum sem átti að notta til dæmis matrix,ardino mega, styri pini. boxið er með lokki sem er hægt að taka af og þar sér maður arduinoinn. það er hægt að teinga meitrixuna í gegnum lokið það sést ef maður liftir matrix líkinguni.
+
+það er hægt að finna .stl linkinn af modelinu her a github
